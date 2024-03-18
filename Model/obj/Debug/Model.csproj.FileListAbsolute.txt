@@ -1,0 +1,6 @@
+G:\pojet Bitbucket\d05-h23-fevrier-groupe1\TPgroupe_1\Model\bin\Debug\Model.dll
+G:\pojet Bitbucket\d05-h23-fevrier-groupe1\TPgroupe_1\Model\bin\Debug\Model.pdb
+G:\pojet Bitbucket\d05-h23-fevrier-groupe1\TPgroupe_1\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+G:\pojet Bitbucket\d05-h23-fevrier-groupe1\TPgroupe_1\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+G:\pojet Bitbucket\d05-h23-fevrier-groupe1\TPgroupe_1\Model\obj\Debug\Model.dll
+G:\pojet Bitbucket\d05-h23-fevrier-groupe1\TPgroupe_1\Model\obj\Debug\Model.pdb

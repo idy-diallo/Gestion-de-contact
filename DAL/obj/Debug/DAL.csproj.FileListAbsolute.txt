@@ -1,0 +1,9 @@
+G:\pojet Bitbucket\d05-h23-fevrier-groupe1\TPgroupe_1\DAL\bin\Debug\DAL.dll
+G:\pojet Bitbucket\d05-h23-fevrier-groupe1\TPgroupe_1\DAL\bin\Debug\DAL.pdb
+G:\pojet Bitbucket\d05-h23-fevrier-groupe1\TPgroupe_1\DAL\bin\Debug\Model.dll
+G:\pojet Bitbucket\d05-h23-fevrier-groupe1\TPgroupe_1\DAL\bin\Debug\Model.pdb
+G:\pojet Bitbucket\d05-h23-fevrier-groupe1\TPgroupe_1\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+G:\pojet Bitbucket\d05-h23-fevrier-groupe1\TPgroupe_1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+G:\pojet Bitbucket\d05-h23-fevrier-groupe1\TPgroupe_1\DAL\obj\Debug\DAL.csproj.Up2Date
+G:\pojet Bitbucket\d05-h23-fevrier-groupe1\TPgroupe_1\DAL\obj\Debug\DAL.dll
+G:\pojet Bitbucket\d05-h23-fevrier-groupe1\TPgroupe_1\DAL\obj\Debug\DAL.pdb
